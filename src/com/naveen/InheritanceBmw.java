@@ -9,8 +9,6 @@ public class InheritanceBmw extends InheritanceCar{
 //    public static void main(String[] args) {
 //        // create object
 //        InheritanceBmw obj = new InheritanceBmw();
-//        obj.engine(); //example for sing
-//
-//        le inheritance
+//        obj.engine(); //example for single inheritance
 //    }
 }
