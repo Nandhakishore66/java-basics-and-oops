@@ -28,10 +28,5 @@ public class MultipleInheritanceExampleClass implements MultipleInheritanceExamp
         MultipleInheritanceExampleInterface2 obj2 = new MultipleInheritanceExampleClass();
         obj2.config();
         obj2.show();
-        MultipleInheritanceExampleClass obj3 = new MultipleInheritanceExampleClass();
-        obj3.config();
-        obj3.multiple();
-        obj3.show();
-        obj3.single();
     }
 }
